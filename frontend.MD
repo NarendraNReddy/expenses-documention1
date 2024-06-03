@@ -64,4 +64,5 @@ Restart Nginx Service to load the changes of the configuration.
 systemctl restart nginx
 ```
 
-#Thats all
+#Thats all.
+#Thats all 2.
